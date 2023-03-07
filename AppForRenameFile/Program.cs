@@ -14,6 +14,8 @@ namespace AppForRenameFile
             try
             {
                 Console.WriteLine("based on master 20230307");
+                Console.WriteLine("based on master 20230307 add 1");
+                Console.WriteLine("based on master 20230307 add 2");
                 Console.WriteLine("Rename File Started");
                 Console.WriteLine("Please Input Folder Path !");
                 string FolderPath = Console.ReadLine();
