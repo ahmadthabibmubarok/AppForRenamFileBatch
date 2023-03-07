@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppForRenameFile", "AppForRenameFile\AppForRenameFile.csproj", "{DF315BE0-743F-4696-A9DA-E88F8CE02981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppForCheckDbLink", "AppForCheckDbLink\AppForCheckDbLink.csproj", "{789B4572-319D-4C40-83DF-EB42DF1285C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF315BE0-743F-4696-A9DA-E88F8CE02981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF315BE0-743F-4696-A9DA-E88F8CE02981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF315BE0-743F-4696-A9DA-E88F8CE02981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF315BE0-743F-4696-A9DA-E88F8CE02981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789B4572-319D-4C40-83DF-EB42DF1285C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789B4572-319D-4C40-83DF-EB42DF1285C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789B4572-319D-4C40-83DF-EB42DF1285C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789B4572-319D-4C40-83DF-EB42DF1285C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
