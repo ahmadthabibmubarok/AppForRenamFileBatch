@@ -13,6 +13,7 @@ namespace AppForRenameFile
         {
             try
             {
+                Console.WriteLine("based on master");
                 Console.WriteLine("Rename File Started");
                 Console.WriteLine("Please Input Folder Path !");
                 string FolderPath = Console.ReadLine();
