@@ -45,7 +45,7 @@ namespace AppForCheckDbLink
             }
             catch (Exception e)
             {
-                Console.WriteLine("Checking File Error :" + e.Message.ToString());
+                Console.WriteLine("ERR | Error Checking File Error :" + e.Message.ToString());
                 Console.ReadKey();
             }
         }
